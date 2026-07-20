@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./C:\Users\HP\OneDrive\Desktop\cv\banner.png" alt="Uche John - Cloud & DevOps Engineer Banner" width="100%">
+</p>
+ 
+ 
  Hi there, I'm Uche John
 
  Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Terraform | GitHub Actions
