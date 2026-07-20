@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./C:\Users\HP\OneDrive\Desktop\cv\banner.png" alt="Uche John - Cloud & DevOps Engineer Banner" width="100%">
+  <img src="banner.png" alt="Uche John - Cloud & DevOps Engineer Banner" width="100%">
 </p>
  
  
